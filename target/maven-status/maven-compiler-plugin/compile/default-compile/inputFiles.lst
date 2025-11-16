@@ -1,0 +1,12 @@
+C:\Users\Gabriel\Documents\NetBeansProjects\biblioteca-loans-java\src\main\java\com\tecsup\library\model\Book.java
+C:\Users\Gabriel\Documents\NetBeansProjects\biblioteca-loans-java\src\main\java\com\tecsup\library\model\Loan.java
+C:\Users\Gabriel\Documents\NetBeansProjects\biblioteca-loans-java\src\main\java\com\tecsup\library\model\Member.java
+C:\Users\Gabriel\Documents\NetBeansProjects\biblioteca-loans-java\src\main\java\com\tecsup\library\repo\BookRepository.java
+C:\Users\Gabriel\Documents\NetBeansProjects\biblioteca-loans-java\src\main\java\com\tecsup\library\repo\LoanRepository.java
+C:\Users\Gabriel\Documents\NetBeansProjects\biblioteca-loans-java\src\main\java\com\tecsup\library\repo\mem\InMemoryBookRepository.java
+C:\Users\Gabriel\Documents\NetBeansProjects\biblioteca-loans-java\src\main\java\com\tecsup\library\repo\mem\InMemoryLoanRepository.java
+C:\Users\Gabriel\Documents\NetBeansProjects\biblioteca-loans-java\src\main\java\com\tecsup\library\repo\mem\InMemoryMemberRepository.java
+C:\Users\Gabriel\Documents\NetBeansProjects\biblioteca-loans-java\src\main\java\com\tecsup\library\repo\MemberRepository.java
+C:\Users\Gabriel\Documents\NetBeansProjects\biblioteca-loans-java\src\main\java\com\tecsup\library\service\DomainException.java
+C:\Users\Gabriel\Documents\NetBeansProjects\biblioteca-loans-java\src\main\java\com\tecsup\library\service\LoanService.java
+C:\Users\Gabriel\Documents\NetBeansProjects\biblioteca-loans-java\src\main\java\com\tecsup\library\util\ClockProvider.java

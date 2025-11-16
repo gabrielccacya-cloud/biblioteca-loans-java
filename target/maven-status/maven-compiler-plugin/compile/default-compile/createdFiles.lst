@@ -1,0 +1,12 @@
+com\tecsup\library\repo\BookRepository.class
+com\tecsup\library\service\DomainException.class
+com\tecsup\library\model\Book.class
+com\tecsup\library\repo\mem\InMemoryBookRepository.class
+com\tecsup\library\service\LoanService.class
+com\tecsup\library\model\Member.class
+com\tecsup\library\repo\mem\InMemoryLoanRepository.class
+com\tecsup\library\repo\MemberRepository.class
+com\tecsup\library\util\ClockProvider.class
+com\tecsup\library\repo\mem\InMemoryMemberRepository.class
+com\tecsup\library\model\Loan.class
+com\tecsup\library\repo\LoanRepository.class
